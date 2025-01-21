@@ -14,7 +14,7 @@ Hi, I am David Soni :b
 
 <p align="center">
   <a href="https://www.github.com/SoniDavid" target="_blank"    rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/SoniDavid?logo=github&style=for-the-badge&color=#264aff& labelColor=1c1917" />
-    <img src="https://komarev.com/ghpvc/?username=SoniDavid&color=#264aff&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/SoniDavid?logo=github&style=for-the-badge&color=264aff& labelColor=1c1917" />
+  <img src="https://komarev.com/ghpvc/?username=SoniDavid&color=264AFF&style=for-the-badge" />
   </a>
 
