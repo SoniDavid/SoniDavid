@@ -23,6 +23,8 @@ Hi, I am David Soni :b
 
 <p align=left>I describe myself as a geek who, apart from computers and programming 🧑‍💻, loves reading 📖, playing guitar 🎸, photography 📸, and videogames (specially rpgs and jrpgs)🎮. Any recommendations of these are more than welcome and I'll gladly talk about hours about these topics. :p</p>
 
+<p align=left>I'm also learning german 🦅, japanese 🍙 and technologies for robotics development 🦾</p>
+
 <h2 align="left">Contact me O_O</h2>
 
 <div align="left">
