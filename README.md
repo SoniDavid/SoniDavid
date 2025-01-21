@@ -17,7 +17,7 @@ Hi, I am David Soni :b
   </a>
 </p>
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me (>'-'<)</h2>
 
 ###
 
