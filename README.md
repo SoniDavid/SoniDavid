@@ -69,3 +69,6 @@ Hi, I am David Soni :b
 </a>
 </div>
 
+<h2> Stats or something similar I guess, idk (._.)</h2>
+
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoniDavid&theme=radical" height="180em" />
