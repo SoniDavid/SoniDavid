@@ -6,8 +6,9 @@ Hi, I am David Soni :b
   <img src="https://media1.tenor.com/m/6m3I1g_WiokAAAAd/fish-spin-sha.gif" alt="Spin fish" width="100" height="100"/>
 </p> 
 
-<p align="left">I'm a developer with an interest in <strong>Robotics</strong>, <strong>Control</strong>, and <strong>Computer Vision</strong>. I'm currently pursuing a <i>B.S. in Robotics and Digital Systems Engineering</i> in <strong>Tecnologico de Monterrey</strong> university. ^_^</p>
+<p align="left">I'm a developer with an interest in <strong>Robotics</strong>, <strong>Control</strong>, and <strong>Computer Vision</strong>. I've alos been diving into reinforcement learning and simulation for digital twin robots. I'm currently pursuing a <i>B.S. in Robotics and Digital Systems Engineering</i> in <strong>Tecnologico de Monterrey</strong> university. ^_^</p>
 
+Right now, I am president of the student chapter of Robotics Engineering at my university, and USV's (Unmanned Surface Vehicle) team leader at <i>VantTec</i>; a group which focuses on autonomous vehicle research and development with over 80 students. I've also been involved in the <i>Multi Robotics Sytem Laboratory</i> (MRSL-ITESM) as teacher assistant.
 ###
 
 <p align="center">
